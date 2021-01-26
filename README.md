@@ -100,3 +100,12 @@
 * [Presentations.ai](https://presentations.ai) Visually stunning presentations 
 that you can design instantly
 * [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
+
+
+
+
+
+## Examples of projects showing the real architecture to implement projects in production.
+
+* [HelloStelath](https://github.com/hellostealth/stealth) : an impressive example for providing an real enterprise use case for the conversational system 
+* [Chronology Python package](https://github.com/OthersideAI/chronology) : another  latest example ( although adapted for the specific use case for defining  the conversational emails , and assesing this method for allowing multiple API services to be called in the same call from the frontend will make the project an reality. 
